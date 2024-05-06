@@ -1,5 +1,8 @@
 <h1 align="center">Hi there 👋 I'm pinguinv 🐧</h1>
 <h3 align="center">Technical school student 👨‍🎓 </h3>
+<p align="center">
+  In my free time I take care of my strawberries 🏡🍓, solve challenges on Codewars ✔️ or play video games 🎮
+</p>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
