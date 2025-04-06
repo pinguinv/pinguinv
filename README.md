@@ -19,13 +19,15 @@
   <a href="https://www.jetbrains.com/idea" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://dev.java" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://www.mysql.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width=50 height=50></a> &nbsp;&nbsp;
-  <a href="https://git-scm.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=50 height=50></a> &nbsp;&nbsp;
+  <a href="https://www.linuxmint.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width=50 height=50></a> &nbsp;&nbsp;
+  <a href="https://git-scm.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://github.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://devdocs.io/c/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://isocpp.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://www.arduino.cc" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=50 height=50></a> &nbsp;&nbsp;
+  <a href="https://www.docker.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" width=50 height=50></a> &nbsp;&nbsp;
 </div>
 
 ---
