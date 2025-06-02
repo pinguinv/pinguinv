@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm pinguinv 🐧</h1>
-<h3 align="center">I'm just a chill technical school student 🎓 who likes to learn 👨‍💻</h3>
+<h3 align="center">I'm just a chill technical school graduate 🎓 who likes to learn about IT stuff 👨‍💻</h3>
 <p align="center">
-  Currently in my spare time I do language tracks on <a href="https://exercism.org" target="_blank">exercism</a> (lately mostly C track) or play video games 🎮
+  Currently in my spare time I do language tracks on <a href="https://exercism.org" target="_blank">exercism</a>, smaller projects or play video games 🎮
 </p>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -9,9 +9,9 @@
 
 ---
 
-<h3>🛠️ Languages & Tools :</h3>
+<h3>🛠️ Languages & Tools I use (or used) :</h3>
 <div align="center">
-  <a href="https://visualstudio.microsoft.com/pl" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width=50 height=50></a> &nbsp;&nbsp;
+  <a href="https://visualstudio.microsoft.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://angular.io" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://www.typescriptlang.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=50 height=50></a> &nbsp;&nbsp;
@@ -23,11 +23,17 @@
   <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://git-scm.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://github.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width=50 height=50></a> &nbsp;&nbsp;
-  <a href="https://devdocs.io/c/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width=50 height=50></a> &nbsp;&nbsp;
+  <a href="https://devdocs.io/c" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://isocpp.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://www.arduino.cc" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://www.docker.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" width=50 height=50></a> &nbsp;&nbsp;
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width=50 height=50></a> &nbsp;&nbsp;
+  <a href="https://nodejs.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width=50 height=50></a> &nbsp;&nbsp;
+  <a href="https://expressjs.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width=50 height=50></a> &nbsp;&nbsp;
+  <a href="https://developer.android.com/studio" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width=50 height=50></a> &nbsp;&nbsp;
+  <a href="https://vuejs.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width=50 height=50></a> &nbsp;&nbsp;
+  <a href="https://threejs.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" width=50 height=50></a> &nbsp;&nbsp;
 </div>
 
 ---
