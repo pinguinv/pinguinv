@@ -34,6 +34,7 @@
   <a href="https://developer.android.com/studio" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://vuejs.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://threejs.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" width=50 height=50></a> &nbsp;&nbsp;
+  <a href="https://www.rust-lang.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" width=50 height=50></a> &nbsp;&nbsp;
 </div>
 
 ---
