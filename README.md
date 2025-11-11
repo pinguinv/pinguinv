@@ -18,7 +18,8 @@
   <a href="https://tailwindcss.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://www.jetbrains.com/idea" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://dev.java" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width=50 height=50></a> &nbsp;&nbsp;
-  <a href="https://spring.io/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width=50 height=50></a> &nbsp;&nbsp;
+  <a href="https://spring.io" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width=50 height=50></a> &nbsp;&nbsp;
+  <a href="https://www.php.net" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://www.mysql.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://www.linuxmint.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width=50 height=50></a> &nbsp;&nbsp;
