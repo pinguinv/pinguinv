@@ -9,15 +9,16 @@
   <a href="https://visualstudio.microsoft.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://www.typescriptlang.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=50 height=50></a> &nbsp;&nbsp;
-  <a href="" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=50 height=50></a> &nbsp;&nbsp;
-  <a href="" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width=50 height=50></a> &nbsp;&nbsp;
+  <a href="https://react.dev" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=50 height=50></a> &nbsp;&nbsp;
+  <a href="https://nextjs.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://tailwindcss.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width=50 height=50></a> &nbsp;&nbsp;
+  <a href="https://pnpm.io" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/pnpm/pnpm-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://www.linuxmint.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://git-scm.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://github.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width=50 height=50></a> &nbsp;&nbsp;
-  <a href="" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width=50 height=50></a> &nbsp;&nbsp;
+  <a href="https://about.gitlab.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width=50 height=50></a> &nbsp;&nbsp;
 </div>
 
 <h3>🕑 Languages & Tools I've used in the past</h3>
