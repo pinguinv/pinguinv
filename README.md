@@ -11,7 +11,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://react.dev" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://nextjs.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width=50 height=50></a> &nbsp;&nbsp;
-  <a href="https://graphql.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width=50 height=50></a> &nbsp;&nbsp;
+  <a href="https://graphql.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width=50 height=50></a> &nbsp;&nbsp;
+  <a href="https://www.apollographql.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/apollographql/apollographql-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://tailwindcss.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://pnpm.io" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/pnpm/pnpm-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://www.linuxmint.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width=50 height=50></a> &nbsp;&nbsp;
