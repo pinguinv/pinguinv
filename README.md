@@ -13,6 +13,7 @@
   <a href="https://nextjs.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://graphql.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://www.apollographql.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/apollographql/apollographql-original.svg" width=50 height=50></a> &nbsp;&nbsp;
+  <a href="https://vuejs.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://tailwindcss.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://pnpm.io" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/pnpm/pnpm-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://www.linuxmint.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width=50 height=50></a> &nbsp;&nbsp;
@@ -39,7 +40,6 @@
   <a href="https://nodejs.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://expressjs.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://developer.android.com/studio" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width=50 height=50></a> &nbsp;&nbsp;
-  <a href="https://vuejs.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://threejs.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://www.rust-lang.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" width=50 height=50></a> &nbsp;&nbsp;
 </div>
