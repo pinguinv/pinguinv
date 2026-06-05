@@ -16,6 +16,7 @@
   <a href="https://vuejs.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://quasar.dev" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/quasar/quasar-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://astro.build" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg" width=50 height=50></a> &nbsp;&nbsp;
+  <a href="https://mui.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://tailwindcss.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://pnpm.io" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/pnpm/pnpm-original.svg" width=50 height=50></a> &nbsp;&nbsp;
   <a href="https://www.linuxmint.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width=50 height=50></a> &nbsp;&nbsp;
